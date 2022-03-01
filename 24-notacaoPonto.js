@@ -28,7 +28,6 @@ console.log(obj3.nome)
 //Exec...
 console.log(obj3.exec())
 
-
 /*
     Estou usando a notação . para acessar propriedades
     e funções... Tudo isso fica visível fora do escopo...
